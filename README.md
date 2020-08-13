@@ -43,9 +43,9 @@ The test/ folder contains a small number of examples that show how you can progr
 
 These test examples were tested with a Chrome OS host.  
 
-login.c - If the Chrome OS host is a at the login prompt, this example injects a mouse click over the 'login as guest' button.
-bbc.c - If the Chrome OS host is showing the browser, as it will after logging in as guest, this example maximises the browser, clicks on the URL edit box, and injects 'bbc.co.uk' & ENTER
-logout.c - This example injects the shortcut key combination to logout of Chrome OS.
+ - login.c - If the Chrome OS host is a at the login prompt, this example injects a mouse click over the 'login as guest' button.
+ - bbc.c - If the Chrome OS host is showing the browser, as it will after logging in as guest, this example maximises the browser, clicks on the URL edit box, and injects 'bbc.co.uk' & ENTER
+ - logout.c - This example injects the shortcut key combination to logout of Chrome OS.
 
 
 
